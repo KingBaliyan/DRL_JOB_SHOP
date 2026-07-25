@@ -139,6 +139,10 @@ OpenAI Gym Documentation
 
 Sunny Choubey
 Final Year Student – Computer Science / AI & ML
+-------------------------------------------------
+Satya Baliyan
+Final Year Student – Computer Science / AI & ML
+--------------------------------------------------
 
 📜 License
 
