@@ -137,6 +137,8 @@ OpenAI Gym Documentation
 
 👨‍🎓 Author
 
+Satya Baliyan
+Final Year Student – Computer Science / AI & ML
 Sunny Choubey
 Final Year Student – Computer Science / AI & ML
 
